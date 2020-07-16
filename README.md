@@ -2,8 +2,11 @@
 
 [![time tracker](https://wakatime.com/badge/github/itsharsh/itsharsh.svg)](https://wakatime.com/badge/github/itsharsh/itsharsh)
 
-<figure><embed src="https://wakatime.com/share/@itsharsh/a167b1c6-a478-4e55-ba0f-034e9bcae4bc.svg"></embed></figure>
-<figure><embed src="https://wakatime.com/share/@itsharsh/5b185318-c9c8-4c25-b3ea-92cf82a39e4f.svg"></embed></figure>
+![Alt text](https://wakatime.com/share/@itsharsh/a167b1c6-a478-4e55-ba0f-034e9bcae4bc.svg)
+<img src="https://wakatime.com/share/@itsharsh/a167b1c6-a478-4e55-ba0f-034e9bcae4bc.svg">
+
+![Alt text]("https://wakatime.com/share/@itsharsh/5b185318-c9c8-4c25-b3ea-92cf82a39e4f.svg)
+<img src="https://wakatime.com/share/@itsharsh/5b185318-c9c8-4c25-b3ea-92cf82a39e4f.svg">
 
 <!--
 **itsharsh/itsharsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
