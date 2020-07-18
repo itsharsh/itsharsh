@@ -1,12 +1,11 @@
 ### Hi there 👋
 
-Portfolio: [![time tracker](https://wakatime.com/badge/github/itsharsh/itsharsh.svg)](https://wakatime.com/badge/github/itsharsh/itsharsh) [![time tracker](https://wakatime.com/badge/github/itsharsh/Portfolio.svg)](https://wakatime.com/badge/github/itsharsh/Portfolio)
+Personal Profile: [![time tracker](https://wakatime.com/badge/github/itsharsh/itsharsh.svg)](https://wakatime.com/badge/github/itsharsh/itsharsh) [![time tracker](https://wakatime.com/badge/github/itsharsh/Portfolio.svg)](https://wakatime.com/badge/github/itsharsh/Portfolio)
 
 SwitchSimply: [![time tracker](https://wakatime.com/badge/github/switchsimply/Switch-Simply-React.svg)](https://wakatime.com/badge/github/switchsimply/Switch-Simply-React) [![time tracker](https://wakatime.com/badge/github/switchsimply/Switch-Simply-Node.svg)](https://wakatime.com/badge/github/switchsimply/Switch-Simply-Node) [![time tracker](https://wakatime.com/badge/github/switchsimply/Switch-Simply-Hardware.svg)](https://wakatime.com/badge/github/switchsimply/Switch-Simply-Hardware)
 
-![Alt text](https://wakatime.com/share/@itsharsh/a167b1c6-a478-4e55-ba0f-034e9bcae4bc.svg)
-
-![Alt text]("https://wakatime.com/share/@itsharsh/5b185318-c9c8-4c25-b3ea-92cf82a39e4f.svg)
+![Alt text](https://wakatime.com/share/@itsharsh/7806fbe3-f549-421e-a4b7-f145cf4a935e.svg)
+![Alt text](https://wakatime.com/share/@itsharsh/42789132-8dba-4599-828b-4d6568e5fd01.svg)
 
 <!--
 **itsharsh/itsharsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
