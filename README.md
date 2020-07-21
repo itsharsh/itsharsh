@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Personal Profile: [![time tracker](https://wakatime.com/badge/github/itsharsh/itsharsh.svg)](https://wakatime.com/badge/github/itsharsh/itsharsh) [![time tracker](https://wakatime.com/badge/github/itsharsh/Portfolio.svg)](https://wakatime.com/badge/github/itsharsh/Portfolio)
+Personal Profile: [![time tracker](https://wakatime.com/badge/github/itsharsh/Portfolio.svg)](https://wakatime.com/badge/github/itsharsh/Portfolio)
 
 SwitchSimply: [![time tracker](https://wakatime.com/badge/github/switchsimply/Switch-Simply-React.svg)](https://wakatime.com/badge/github/switchsimply/Switch-Simply-React) [![time tracker](https://wakatime.com/badge/github/switchsimply/Switch-Simply-Node.svg)](https://wakatime.com/badge/github/switchsimply/Switch-Simply-Node) [![time tracker](https://wakatime.com/badge/github/switchsimply/Switch-Simply-Hardware.svg)](https://wakatime.com/badge/github/switchsimply/Switch-Simply-Hardware)
 
