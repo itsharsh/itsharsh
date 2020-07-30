@@ -11,7 +11,7 @@ Currently Working on [SwitchSimply:](https://dev.switchsimply.itsharsh.com) [![t
 
 Wakatime Stats (since July, 18th 2020)
 
-<img align="left" src="https://wakatime.com/share/@itsharsh/42789132-8dba-4599-828b-4d6568e5fd01.svg"  width="50%"/><img align="left" src="https://wakatime.com/share/@itsharsh/7806fbe3-f549-421e-a4b7-f145cf4a935e.svg" width="50%"/>
+<img src="https://wakatime.com/share/@itsharsh/7806fbe3-f549-421e-a4b7-f145cf4a935e.svg" width="49%"/><img src="https://wakatime.com/share/@itsharsh/42789132-8dba-4599-828b-4d6568e5fd01.svg" width="49%"/>
 
 <!--
 **itsharsh/itsharsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
