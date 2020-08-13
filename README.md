@@ -2,7 +2,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=itsharsh&color=brightgreen) ![](https://github.com/antonkomarev/github-profile-views-counter)
 
-Checkout my [Portfolio:](https://itsharsh.com) [![time tracker](https://wakatime.com/badge/github/itsharsh/Portfolio.svg)](https://wakatime.com/badge/github/itsharsh/Portfolio)
+Checkout my [Portfolio:](https://itsharsh.com)
 
 Currently Working on [SwitchSimply:](https://dev.switchsimply.itsharsh.com) [![time tracker](https://wakatime.com/badge/github/switchsimply/Switch-Simply-React.svg)](https://wakatime.com/badge/github/switchsimply/Switch-Simply-React "ReactJS") [![time tracker](https://wakatime.com/badge/github/switchsimply/Switch-Simply-Node.svg)](https://wakatime.com/badge/github/switchsimply/Switch-Simply-Node "NodeJS") [![time tracker](https://wakatime.com/badge/github/switchsimply/Switch-Simply-Hardware.svg)](https://wakatime.com/badge/github/switchsimply/Switch-Simply-Hardware "ESP32")
 
