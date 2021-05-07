@@ -4,7 +4,10 @@
 
 Checkout my [Portfolio](https://itsharsh.com)
 
-Currently Working on [SwitchSimply](https://dev.switchsimply.itsharsh.com)
+Projects: 
+‣[IMS](https://stginventory.itsharsh.com) 
+‣[SwitchSimply](https://stgswitchsimply.itsharsh.com) 
+‣[JD Farmhouse](https://jdfarmhouse.itsharsh.com)
 
 ---
 
